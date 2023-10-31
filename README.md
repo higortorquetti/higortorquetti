@@ -11,7 +11,7 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe">
 <img align="center" alt="React"  width=15% src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg">
 <img align="center" alter="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alter="typescript" src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white">
+<img align="center" alter="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
 
 </div></br>
