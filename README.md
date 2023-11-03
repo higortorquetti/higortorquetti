@@ -17,8 +17,9 @@
 </div></br>
 
 ### Últimos projetos:
+- [Automação de vários testes e cenários com Selenium] (https://github.com/higortorquetti/automationExercise)</br>
 - [Automação Básica utilizando Cypress](https://github.com/higortorquetti/cypress-basico-v2)</br>
-- [Sistema de estacionamento de carros com C#](https://github.com/higortorquetti/trilha-net-fundamentos-desafio)<br>
+- [Sistema de estacionamento de carros com C#](https://github.com/higortorquetti/trilha-net-fundamentos-desafio)</br>
 - [WebSite Cadastro de Ponto de Coleta com React](https://github.com/higortorquetti/AppColetaReact/tree/main)
 
 ### Últimos videos postados no LinkedIn
