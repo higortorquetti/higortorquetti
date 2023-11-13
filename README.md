@@ -23,6 +23,7 @@
 - [WebSite Cadastro de Ponto de Coleta com React](https://github.com/higortorquetti/AppColetaReact/tree/main)
 
 ### Últimos videos postados no LinkedIn
+- [Projeto de Automação com Selenium](https://www.linkedin.com/feed/update/urn:li:activity:7128456085119598593/)
 - [Refatorando script com Selenium](https://www.linkedin.com/feed/update/urn:li:activity:7124484295452221442/)
 - [Refatorando script com cypress](https://www.linkedin.com/posts/higor-t-64b1b8155_eai-galera-bom-memo-ontem-eu-postei-um-activity-7117509437799510016-lqan?utm_source=share&utm_medium=member_desktop)
 - [Projetos em C# bootcamp DIO](https://www.linkedin.com/posts/higor-t-64b1b8155_eai-galera-bom-memo-hoje-vim-aqui-compartilhar-activity-7122612135448199168-BrlV?utm_source=share&utm_medium=member_desktop) 
