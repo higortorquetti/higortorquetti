@@ -17,12 +17,14 @@
 </div></br>
 
 ### Últimos projetos:
+- [Sistama de Hospedagem em Java](https://github.com/higortorquetti/HospedagemJava)
 - [Automação de vários testes e cenários com Selenium](https://github.com/higortorquetti/automationExercise)</br>
 - [Automação Básica utilizando Cypress](https://github.com/higortorquetti/cypress-basico-v2)</br>
 - [Sistema de estacionamento de carros com C#](https://github.com/higortorquetti/trilha-net-fundamentos-desafio)</br>
 - [WebSite Cadastro de Ponto de Coleta com React](https://github.com/higortorquetti/AppColetaReact/tree/main)
 
 ### Últimos videos postados no LinkedIn
+- [Projeto de Sistema de Hospedagem com Java](https://www.linkedin.com/feed/update/urn:li:activity:7135729010998730753/)
 - [Projeto de Automação com Selenium](https://www.linkedin.com/feed/update/urn:li:activity:7128456085119598593/)
 - [Refatorando script com Selenium](https://www.linkedin.com/feed/update/urn:li:activity:7124484295452221442/)
 - [Refatorando script com cypress](https://www.linkedin.com/posts/higor-t-64b1b8155_eai-galera-bom-memo-ontem-eu-postei-um-activity-7117509437799510016-lqan?utm_source=share&utm_medium=member_desktop)
