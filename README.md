@@ -17,6 +17,7 @@
 </div></br>
 
 ### Últimos projetos:
+- [Automação de vários testes e cenários com Cypress](https://github.com/higortorquetti/automatioProjectCypress).
 - [Sistama de Hospedagem em Java](https://github.com/higortorquetti/HospedagemJava)
 - [Automação de vários testes e cenários com Selenium](https://github.com/higortorquetti/automationExercise)</br>
 - [Automação Básica utilizando Cypress](https://github.com/higortorquetti/cypress-basico-v2)</br>
@@ -24,6 +25,7 @@
 - [WebSite Cadastro de Ponto de Coleta com React](https://github.com/higortorquetti/AppColetaReact/tree/main)
 
 ### Últimos videos postados no LinkedIn
+- [Projeto de Automação com Cypress](https://www.linkedin.com/feed/update/urn:li:activity:7165314852083691520/).
 - [Projeto de Sistema de Hospedagem com Java](https://www.linkedin.com/feed/update/urn:li:activity:7135729010998730753/)
 - [Projeto de Automação com Selenium](https://www.linkedin.com/feed/update/urn:li:activity:7128456085119598593/)
 - [Refatorando script com Selenium](https://www.linkedin.com/feed/update/urn:li:activity:7124484295452221442/)
